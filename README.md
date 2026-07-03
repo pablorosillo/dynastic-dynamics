@@ -5,7 +5,7 @@ This repository provides the official implementation of the models introduced in
 ## Abstract
 The naming choices of powerful rulers encode millennia of cultural, political, and institutional change. Here we examine the onomastic record of several ruling dynasties, including Roman emperors, Egyptian pharaohs, popes, and kings. We show that their naming choices are not captured by random reuse or by frequency-based rich-get-richer mechanisms alone, but are better described by a reinforcement process shaped by rare but high-impact stochastic prestige increments driving the interplay between innovation and name reuse. With our model, we capture the strong inequalities in name use, the persistence of dominant names, and the abrupt rises in popularity observed across historical sequences. Our results suggest that ruling-name traditions preserve institutional memory through reinforcement, while remaining sensitive to rare historical events that can reshape the hierarchy of names across generations.
 
-## Naming Models Explained
+## Naming models explained
 
 This framework simulates and compares three competing choice dynamics to analyze how names are selected during succession events:
 
