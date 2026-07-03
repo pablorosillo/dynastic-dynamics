@@ -44,7 +44,7 @@ pip install numpy tqdm
 
 ## Citation
 ```
-@article{rosillo2026dynastic,
+@article{rosillolamata2026,
   title={Dynastic dynamics: Modeling powerful naming choices with stochastic prestige},
   author={Rosillo-Rodes, Pablo and Lamata-Ot{\'i}n, Santiago and Soriano-Pa{\~n}os, David and H{\'e}bert-Dufresne, Laurent and Dodds, Peter Sheridan},
   journal={arXiv preprint},
