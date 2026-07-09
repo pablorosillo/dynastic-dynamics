@@ -21,7 +21,7 @@ We provide the names used for the analysis in the `data.md` file.
 
 Optimal parameters derived via root-mean-square error (RMSE) minimization across the studied dynasties:
 
-| Dynasty / Tradition | Upper Cutoff ($\kappa$) | Exponent ($\alpha$) | Dominant Mechanism |
+| Dynasty / Tradition | Upper cutoff ($\kappa$) | Exponent ($\alpha$) | Dominant Mechanism |
 | :--- | :---: | :---: | :--- |
 | **Popes** | 209 | 3.07 | Prestige required |
 | **Pharaohs** | 244 | 1.31 | Prestige required |
