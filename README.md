@@ -25,7 +25,7 @@ Optimal parameters derived via root-mean-square error (RMSE) minimization across
 | :--- | :---: | :---: | :--- |
 | **Popes** | 209 | 3.07 | Prestige required |
 | **Pharaohs** | 244 | 1.31 | Prestige required |
-| **Roman emperors** | 478 | 2.76 | Prestige required |
+| **Roman emperors** | 585 | 2.71 | Prestige required |
 | **Spanish monarchs** | 105 | 4.98 | Rich-get-richer explains |
 | **Danish monarchs** | 374 | 3.90 | Rich-get-richer explains |
 | **English monarchs** | 70 | 1.82 | Prestige required |
